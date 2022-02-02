@@ -18,7 +18,7 @@ In the MATLAB console run:
 ```
 RF_n_Noise.m
 ```
-The code corresponds to **RF + Noise** method in the paper. The code can be modified to run **RF** method easily.
+The code corresponds to the **RF + Noise** method in the paper. The code can be modified to run **RF** method easily.
 
 The code was written and tested on MATLAB 2021b in Ubuntu 18.04
 
