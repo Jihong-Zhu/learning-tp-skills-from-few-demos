@@ -20,7 +20,7 @@ RF_n_Noise.m
 ```
 The code was written and tested on MATLAB 2021b in Ubuntu 18.04
 
-## Authors
+## Author
 [Jihong Zhu](https://jihong-zhu.github.io/)
 
 
