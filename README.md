@@ -26,4 +26,4 @@ The code was written and tested on MATLAB 2021b in Ubuntu 18.04
 
 ## License
 
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE] License - see the LICENSE file for details
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE] - see the LICENSE file for details
