@@ -2,7 +2,7 @@
 
 ## Description
 
-A basic MATLAB implementation of the the RAL/ICRA paper:
+A basic MATLAB implementation of our RAL/ICRA paper:
 
 Jihong Zhu, Michael Gienger, and Jens Kober. [Learning Task-Parameterized Skills from Few Demonstrations](https://arxiv.org/pdf/2201.09975.pdf).
 
